@@ -1,0 +1,21 @@
+﻿  ofApp.cpp
+C:\Users\ourcl\Downloads\of_v0.11.0_vs2017_release\libs\openFrameworks\utils\ofUtils.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\ourcl\Downloads\of_v0.11.0_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\ourcl\Downloads\of_v0.11.0_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\ourcl\source\repos\ofMaze\src\ofApp.h(38,49): warning C4091: 'typedef ': 변수를 선언하지 않으면 '<unnamed-enum-visit>' 왼쪽은 무시됩니다.
+C:\Users\ourcl\source\repos\ofMaze\src\ofApp.cpp(55,1): warning C4996: 'ofTrueTypeFont::loadFont': Use load instead
+C:\Users\ourcl\Downloads\of_v0.11.0_vs2017_release\libs\openFrameworks\graphics\ofTrueTypeFont.h(193): message : 'ofTrueTypeFont::loadFont' 선언을 참조하십시오.
+C:\Users\ourcl\source\repos\ofMaze\src\ofApp.cpp(140,9): warning C4101: 'pos' :참조되지 않은 지역 변수입니다.
+C:\Users\ourcl\source\repos\ofMaze\src\ofApp.cpp(255,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 'sprintf' 선언을 참조하십시오.
+C:\Users\ourcl\source\repos\ofMaze\src\ofApp.cpp(406,10): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::string'입니다.
+C:\Users\ourcl\source\repos\ofMaze\src\ofApp.cpp(439,10): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\ourcl\source\repos\ofMaze\src\ofApp.cpp(483): warning C4715: 'ofApp::readFile': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  ofMaze.vcxproj -> C:\Users\ourcl\source\repos\ofMaze\bin\ofMaze_debug.exe
+  
+  	                   2	C:\Users\ourcl\Downloads\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *추가 파일  		 6018560	C:\Users\ourcl\source\repos\ofMaze\bin\FreeImage.dll
+  
+  	                   1	C:\Users\ourcl\Downloads\of_v0.11.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *추가 파일  		 1266176	C:\Users\ourcl\source\repos\ofMaze\bin\fmodex.dll
+  	  *추가 파일  		 1312768	C:\Users\ourcl\source\repos\ofMaze\bin\fmodexL.dll
